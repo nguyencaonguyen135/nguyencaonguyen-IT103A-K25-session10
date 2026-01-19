@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    padding: 40px;
+    background-color: #f4f4f4;
+    gap: 20px;
+}
+.food p {
+    font-weight: bold;
+    text-align: center;
+}
+.food img {
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+}

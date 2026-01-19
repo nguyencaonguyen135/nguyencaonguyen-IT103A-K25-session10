@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu {
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+    background-color: #f4f4f4;
+    padding: 40px;
+    width: 70%;
+    margin: auto;
+    gap: 40px;
+    margin-top: 30px;
+    background-color: #f4f4f4;
+}
+.food img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.food p {
+    font-weight: bold;
+    text-align: center;
+}
